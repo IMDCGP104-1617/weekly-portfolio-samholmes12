@@ -1,0 +1,6 @@
+C:\Users\sam11773\Desktop\Queue-Weekly\Queue-Weekly\bin\Debug\Queue-Weekly.exe.config
+C:\Users\sam11773\Desktop\Queue-Weekly\Queue-Weekly\bin\Debug\Queue-Weekly.exe
+C:\Users\sam11773\Desktop\Queue-Weekly\Queue-Weekly\bin\Debug\Queue-Weekly.pdb
+C:\Users\sam11773\Desktop\Queue-Weekly\Queue-Weekly\obj\Debug\Queue-Weekly.csprojResolveAssemblyReference.cache
+C:\Users\sam11773\Desktop\Queue-Weekly\Queue-Weekly\obj\Debug\Queue-Weekly.exe
+C:\Users\sam11773\Desktop\Queue-Weekly\Queue-Weekly\obj\Debug\Queue-Weekly.pdb
